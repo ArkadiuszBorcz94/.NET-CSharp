@@ -1,0 +1,8 @@
+F:\Studia\Nauka programowania\NaukaC#\PasjaInfor\nauka\nauka\bin\Debug\nauka.exe.config
+F:\Studia\Nauka programowania\NaukaC#\PasjaInfor\nauka\nauka\bin\Debug\nauka.exe
+F:\Studia\Nauka programowania\NaukaC#\PasjaInfor\nauka\nauka\bin\Debug\nauka.pdb
+F:\Studia\Nauka programowania\NaukaC#\PasjaInfor\nauka\nauka\obj\Debug\nauka.csproj.AssemblyReference.cache
+F:\Studia\Nauka programowania\NaukaC#\PasjaInfor\nauka\nauka\obj\Debug\nauka.csproj.SuggestedBindingRedirects.cache
+F:\Studia\Nauka programowania\NaukaC#\PasjaInfor\nauka\nauka\obj\Debug\nauka.csproj.CoreCompileInputs.cache
+F:\Studia\Nauka programowania\NaukaC#\PasjaInfor\nauka\nauka\obj\Debug\nauka.exe
+F:\Studia\Nauka programowania\NaukaC#\PasjaInfor\nauka\nauka\obj\Debug\nauka.pdb
